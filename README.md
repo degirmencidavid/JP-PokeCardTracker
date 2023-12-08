@@ -1,6 +1,6 @@
 # JP-PokeCardTracker V0.1
 
-A simple application to track prices of Pokemon cards on Japanese card shops. Run *PokeTracker V0.1.jar* to use it.
+A simple application to track prices of Pokemon cards on Japanese card shops. Run ***PokeTracker V0.1.jar*** to use it.
 
 Most functionality has ben completed for cardrush-pokemon.jp and needs to be implemented for other sites. The language drop-box is currently redundant, but will in future be used to switch between a set of English/Japanese storefronts.
 
