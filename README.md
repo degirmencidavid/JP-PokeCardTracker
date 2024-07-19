@@ -2,7 +2,7 @@
 
 A simple application to track prices of Pokemon cards on Japanese card shops. Run ***PokeTracker V0.1.jar*** to use it.
 
-The purpose of this repository is to be a learning tool.
+The purpose of this repository is to be a teaching and learning tool.
 
 Most functionality has ben completed for cardrush-pokemon.jp and needs to be implemented for other sites. The language drop-box is currently redundant, but will in future be used to switch between a set of English/Japanese storefronts.
 
