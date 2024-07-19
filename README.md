@@ -8,7 +8,7 @@ Most functionality has ben completed for cardrush-pokemon.jp and needs to be imp
 
 Currently the **Poke Name**, **Set No**, **Set Limit**, **JPY Price**, **GBP price** fields have to be filled for a card to be generated. JPY Price and GBP Price will be optional and will be used to compare your purchase price with the price on a certain storefront.
 
-When a PokeCard is created, a small text field will also be filled in the bottom right of the application containing some data. This is for debugging.
+When a PokeCard is created, a small text field will also be filled in the bottom right of the application containing some data. This can be used to assist in debugging.
 
 # Functionality
 
